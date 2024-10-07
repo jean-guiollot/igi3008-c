@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 
 
@@ -17,10 +18,3 @@ int main()
     printf("test fonction 3+4 = %d\n 3*4=%d\n",somme,prod);
     return 0;
 }
-
-
-
-
-
-
-
