@@ -8,9 +8,6 @@ int sumult(int a ,int b,int *somme,int *prod)
     return 0;
 }
 
-
-
-
 int main()
 {
     int a,b,somme,prod;
