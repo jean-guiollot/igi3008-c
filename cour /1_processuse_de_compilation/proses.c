@@ -10,3 +10,4 @@ int main(){
 //save les fichiers
 //   git add .
 //   git commit -m "coucou"
+//   git push
